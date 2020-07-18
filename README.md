@@ -15,3 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: info.ck.3764@gmail.com
 
 -->
+
+
+######Languages and Tools:
+
+
+
+ ![](https://img.shields.io/badge/html-css-red)  ![](https://img.shields.io/badge/c-c++-orange) ![](https://img.shields.io/badge/Python-brightgreen) ![](https://img.shields.io/badge/Android -x code-yellow) ![](https://img.shields.io/badge/js-Php-blue)
+
+
+ ![](https://github-readme-stats.vercel.app/api?username=Chintan8860&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
+
+ ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Ultimate-Facebook-Scraper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Live-Stock-Market-price&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=python-game&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ 
