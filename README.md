@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Chintan! 👋
+
+###### Hi, I'm Chintan Bambharoliya, a passionate self-taught backEnd and python developer from India.
 - 🔭 I’m currently working on Netflix clone
 - 🌱 I’m currently learning django
 - 💬 Ask me about Python
@@ -26,5 +28,6 @@ Here are some ideas to get you started:
 
  ![](https://github-readme-stats.vercel.app/api?username=Chintan8860&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
 
- ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Ultimate-Facebook-Scraper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Live-Stock-Market-price&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=python-game&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Ultimate-Facebook-Scraper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=Live-Stock-Market-price&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=python-game&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/pin/?username=Chintan8860&repo=covid-19-case-notification&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ 
  
