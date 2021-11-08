@@ -1,9 +1,9 @@
 ### Hi there I'm [Chintan! ](http://chintanbambharoliya.ml) 👋
 
 ###### Hi, I'm Chintan Bambharoliya, a passionate self-taught backEnd and python developer from India.
-- 🔭 I’m currently working on Netflix clone
+- 🔭 I’m currently working as a full stack devloper
 - 🌱 I’m currently learning django
-- 💬 Ask me about Python
+- 💬 Ask me about react js
 - 📫 How to reach me: info.ck.3764@gmail.com
 
 <!--
