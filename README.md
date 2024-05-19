@@ -1,20 +1,20 @@
 ### Hi there I'm [Chintan! ](http://chintanbambharoliya.ml) 👋
 
 ###### Hi, I'm Chintan Bambharoliya, a passionate self-taught backEnd and python developer from India.
-- 🔭 I’m currently working as a full stack devloper
-- 🌱 I’m currently learning django
-- 💬 Ask me about react js
-- 📫 How to reach me: info.ck.3764@gmail.com
+- 🔭 I’m currently working as a senior software engineer
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about Javascript
+- 📫 How to reach me: bambharoliyachintan3764@gmail.com
 
 <!--
 **Chintan8860/Chintan8860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Netflix clone
-- 🌱 I’m currently learning django
-- 💬 Ask me about Python
-- 📫 How to reach me: info.ck.3764@gmail.com
+- 🔭 I’m currently working as a senior software engineer
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about Javascript
+- 📫 How to reach me: bambharoliyachintan3764@gmail.com
 
 -->
 
